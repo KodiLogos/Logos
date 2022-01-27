@@ -1,0 +1,23 @@
+#EXTM3U x-tvg-url=""
+#EXTINF:-1 tvg-id="ICIRadioCanadaOntario.ca" tvg-country="CA" tvg-language="French" tvg-logo="https://i.imgur.com/rQyoWsy.png" group-title="",ICI TELE Toronto (720p)
+http://encodercdn1.frontline.ca/vantrix/ltv/Bell_ICIHT_AtopItci_2015_01_12_HD/hls_hd.m3u8
+#EXTINF:-1 tvg-id="CBCMontreal.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://i.imgur.com/thAavMy.png" group-title="Local",CBC Montreal [Geo-blocked]
+https://cbclivedai3-i.akamaihd.net/hls/live/566976/event2/CBMT/master5.m3u8
+#EXTINF:-1 tvg-id="ICIMontreal.ca" tvg-country="CA" tvg-language="French" tvg-logo="https://i.imgur.com/i3xFNPE.png" group-title="General",ICI Montreal (720p) [Not 24/7]
+https://ici-i.akamaihd.net/hls/live/873426/ICI-Live-Stream/master.m3u8
+#EXTINF:-1 tvg-id="CBFT.ca" tvg-country="CA" tvg-language="French" tvg-logo="https://i.imgur.com/byTTNAi.png" group-title="General",Ici Radio-Canada TÃ©lÃ© (720p)
+https://rcavlive.akamaized.net/hls/live/696615/xcancbft/master.m3u8
+#EXTINF:-1 tvg-id="ICIRadioCanadaRDI.ca" tvg-country="CA" tvg-language="French" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/ICI_RDI.png" group-title="",ICI RDI (720p)
+http://encodercdn1.frontline.ca/encoder184/output/ICI_RDI_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="IciRDI.ca" tvg-country="CA" tvg-language="French" tvg-logo="https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/images/logos/ICI-RDI.png" group-title="News",Ici RDI (720p)
+https://rcavlive.akamaized.net/hls/live/704025/xcanrdi/master.m3u8
+#EXTINF:-1 tvg-id="LCN.ca" tvg-country="CA" tvg-language="French" tvg-logo="https://i.imgur.com/JHOyrgA.png" group-title="",LCN [Geo-blocked]
+https://tvalive.akamaized.net/hls/live/2014213/tvan01/tvan01.m3u8
+#EXTINF:-1 tvg-id="MeteoMedia.ca" tvg-country="CA" tvg-language="French" tvg-logo="https://s1.twnmm.com/images/en_ca/mobile/logos/twn-mobile-logo.png" group-title="Weather",Meteomedia (720p)
+http://encodercdn1.frontline.ca/encoder181/output/Meteo_Media_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="StingrayClassicRock.ca" tvg-country="CA" tvg-language="English" tvg-logo="https://github.com/geonsey/Free2ViewTV/blob/master/images/logos/Xumo_456x456.png?raw=true" group-title="Music",Stingray Classic Rock (1080p)
+https://dai2.xumo.com/amagi_hls_data_xumo1212A-xumostingrayclassicrock/CDN/master.m3u8
+#EXTINF:-1 tvg-id="CFTM.ca" tvg-country="CA" tvg-language="French" tvg-logo="https://graph.facebook.com/ReseauTVA/picture?width=300&height=300" group-title="",TVA [Geo-blocked]
+https://tvalive-nondai.akamaized.net/Content/HLS/Live/channel(a7315e07-037c-12a8-bdc8-da7bd513da9d)/index.m3u8
+#EXTINF:-1 tvg-id="TVA.ca" tvg-country="CA" tvg-language="French" tvg-logo="https://myhealthhub.frontline.ca/myhealthhubtv/channellogos/TVA.png" group-title="",TVA Montreal (720p)
+http://encodercdn1.frontline.ca/encoder184/output/TVA_Montreal_720p/playlist.m3u8
